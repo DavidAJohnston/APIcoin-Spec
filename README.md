@@ -22,7 +22,7 @@ We claim that APIcoin can provide a platform for developers to easily access API
 
 # Assumptions
 
-Our claims are built on the following assumptions:
+Our claims are built on the following assumptions in the Mastercoin Protocol:
 
 * Alternate block chains compete with bitcoins financially, confuse our message to the world, and dilute our efforts. These barriers interfere with the adoption momentum of bitcoin and the adoption momentum of alternate currencies as well, regardless of how well-conceived their rules may be.
 * New protocol layers on top of the bitcoin protocol will increase bitcoin values, consolidate our message to the world, and concentrate our efforts, while still allowing individuals and groups to issue new currencies with experimental new rules. The success of any experimental currency protocol layer will enhance the value and success of the foundational bitcoin protocol. 
@@ -78,3 +78,10 @@ For every 1 APIcoin sold, an additional “Developer APIcoin” will also be cre
 Say you want to transfer 1 APIcoin to another address. This is done through the Mastercoin client implimetations and its "Decentralized Exchange" feature.
 
 Note that the amount to transfer is multiplied by 100,000,000 before it is stored, which allows for APIcoins to be sent with the same precision as bitcoins (eight decimal places).
+
+
+
+
+
+
+
